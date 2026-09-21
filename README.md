@@ -62,13 +62,13 @@ Designed specifically as an **SDET Portfolio Project**, it highlights clean code
 ```text
 unque-api-automation/
 ├── __tests__/
-│   └── users.test.js      # Comprehensive API test scenarios (GET, POST, PUT, DELETE)
+│   └── users.test.js      
 ├── config/
-│   └── config.js          # Centralized environment & Base URL configuration
-├── .gitignore             # Git exclusion rules (node_modules, coverage, etc.)
-├── jest.config.js         # Jest runner configuration & environment settings
-├── package.json           # Project metadata, dependencies, and test scripts
-└── README.md              # Detailed project documentation
+│   └── config.js 
+├── .gitignore      
+├── jest.config.js
+├── package.json  
+└── README.md  
 ```
 
 ---
